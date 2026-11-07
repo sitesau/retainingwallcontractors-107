@@ -1,0 +1,22 @@
+{
+  "wheel_id": 813,
+  "structure": "umbrella",
+  "slug": "retainingwallcontractors-107",
+  "project": "retaining-wall-contractors-beginner-guide-9654748fcf89b60f094be",
+  "parent_t1_ref": "retainingwallcontractors-153",
+  "node_role": "feeder",
+  "money_target": "retainingwallcontractors.com.au",
+  "primary_kw": "retaining wall contractors beginner guide",
+  "intended_url": "http://retaining-wall-contractors-beginner-guide-9654748fcf89b60f094be.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "2e863c7221f5349c",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/retainingwallcontractors-153/",
+      "anchor": "this retaining wall contractors what to expect resource",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
